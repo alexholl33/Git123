@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace LibraryUnderGit
 {
     public class Class1    
-    {
+    {  
     }
 }
   
