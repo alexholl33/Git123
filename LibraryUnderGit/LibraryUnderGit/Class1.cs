@@ -8,5 +8,6 @@ namespace LibraryUnderGit
 {
     public class Class1     
     {
+        //hub
     }
 }
